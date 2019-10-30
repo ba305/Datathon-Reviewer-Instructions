@@ -38,7 +38,7 @@ You will see a bunch of information in the Chair Console:
 
 Here are the main things you need to know.
 
-#### Settings for Deadlines
+## Settings for Deadlines
 1. Before participants can submit, and before reviewers can review papers, both of those functionalities (as well as some others) must be "enabled" in the Deadlines section of the Settings page. To get, there click on the following button:
 
 ![GitHub Logo](screenshots/chair3.png)
@@ -54,7 +54,7 @@ and then click on the Deadline button:
 3. Make sure that these deadlines are correct. This affects if/when authors and reviewers can submit papers and/or reviews.
 
 
-#### Adding Questions for Reviewers
+## Adding Questions for Reviewers
 
 1. To add new questions for Reviewers to answer, stay in the Settings page (see above), and then select the button shown below:
 
@@ -62,7 +62,7 @@ and then click on the Deadline button:
 
 2. You can then add/remove questions for Reviewers
 
-#### Assigning Reviewers
+## Assigning Reviewers
 
 There are two ways to assign reviewers:
 1. Manually
@@ -108,6 +108,8 @@ Now, when you return back to the Chair Console, you will see that reviewers have
 
 Reviewers can now review the papers by following the instructions in the "Instructions for Reviewers" Section of this document.
 
-
-
 #### Downloading reviews
+
+At the top of the page, you can download to Excel:
+
+![GitHub Logo](screenshots/chair12.png)
