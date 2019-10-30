@@ -20,7 +20,7 @@ Note: if you see anything about "Meta-Reviewers" or "Senior Meta-Reviewers," ple
 
 ![GitHub Logo](screenshots/reviewer3.png)
 
-5. Leave your review by answering the questions
+5. Leave your review by answering the questions. After you submit, you can also edit your review, by selecting "Edit Review" on the same page
 
 
 
