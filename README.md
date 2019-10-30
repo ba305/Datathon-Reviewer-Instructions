@@ -108,7 +108,7 @@ Now, when you return back to the Chair Console, you will see that reviewers have
 
 Reviewers can now review the papers by following the instructions in the "Instructions for Reviewers" Section of this document.
 
-#### Downloading reviews
+## Downloading reviews
 
 At the top of the page, you can download to Excel:
 
