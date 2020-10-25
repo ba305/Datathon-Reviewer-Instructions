@@ -47,7 +47,7 @@ and then click on the Deadline button:
 
 ![GitHub Logo](screenshots/chair4.png)
 
-2. You can then set the relevant Deadline settings. An example is shown below:
+2. You can then set the relevant Deadline settings. An example is shown below. Note that these are in PACIFIC TIME.
 
 ![GitHub Logo](screenshots/chair5.png)
 
